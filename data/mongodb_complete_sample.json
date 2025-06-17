@@ -1,0 +1,270 @@
+{
+  "courses": [
+    {
+      "course_id": "COURSE001",
+      "course_title": "Computer Science Course 1",
+      "short_description": "A short intro to Computer Science topic 1",
+      "description": "This is a comprehensive course on Computer Science topic 1, covering concepts, practice, and evaluation.",
+      "category_id": "1",
+      "sub_category_id": "1-1",
+      "category_name": "Computer Science",
+      "course_type": "video",
+      "thumbnail": "/images/thumb1.jpg",
+      "image": "/images/course1.jpg",
+      "youtube": "https://youtube.com/video1",
+      "enrollment_status": "completed",
+      "progress": 98,
+      "certificate_earned": false,
+      "rating": 4.0,
+      "registered_students": 354,
+      "comments": [
+        "Comment 0 on Course 1",
+        "Comment 1 on Course 1",
+        "Comment 2 on Course 1",
+        "Comment 3 on Course 1"
+      ]
+    },
+    {
+      "course_id": "COURSE002",
+      "course_title": "Business and Management Sciences Course 2",
+      "short_description": "A short intro to Business and Management Sciences topic 2",
+      "description": "This is a comprehensive course on Business and Management Sciences topic 2, covering concepts, practice, and evaluation.",
+      "category_id": "2",
+      "sub_category_id": "2-2",
+      "category_name": "Business and Management Sciences",
+      "course_type": "video",
+      "thumbnail": "/images/thumb2.jpg",
+      "image": "/images/course2.jpg",
+      "youtube": "https://youtube.com/video2",
+      "enrollment_status": "completed",
+      "progress": 95,
+      "certificate_earned": true,
+      "rating": 3.7,
+      "registered_students": 283,
+      "comments": [
+        "Comment 0 on Course 2"
+      ]
+    },
+    {
+      "course_id": "COURSE003",
+      "course_title": "Mathematics Course 3",
+      "short_description": "A short intro to Mathematics topic 3",
+      "description": "This is a comprehensive course on Mathematics topic 3, covering concepts, practice, and evaluation.",
+      "category_id": "3",
+      "sub_category_id": "3-3",
+      "category_name": "Mathematics",
+      "course_type": "video",
+      "thumbnail": "/images/thumb3.jpg",
+      "image": "/images/course3.jpg",
+      "youtube": "https://youtube.com/video3",
+      "enrollment_status": "completed",
+      "progress": 34,
+      "certificate_earned": true,
+      "rating": 3.5,
+      "registered_students": 475,
+      "comments": [
+        "Comment 0 on Course 3",
+        "Comment 1 on Course 3",
+        "Comment 2 on Course 3",
+        "Comment 3 on Course 3"
+      ]
+    },
+    {
+      "course_id": "COURSE004",
+      "course_title": "Engineering Course 4",
+      "short_description": "A short intro to Engineering topic 4",
+      "description": "This is a comprehensive course on Engineering topic 4, covering concepts, practice, and evaluation.",
+      "category_id": "4",
+      "sub_category_id": "4-1",
+      "category_name": "Engineering",
+      "course_type": "video",
+      "thumbnail": "/images/thumb4.jpg",
+      "image": "/images/course4.jpg",
+      "youtube": "https://youtube.com/video4",
+      "enrollment_status": "active",
+      "progress": 92,
+      "certificate_earned": false,
+      "rating": 4.8,
+      "registered_students": 287,
+      "comments": [
+        "Comment 0 on Course 4",
+        "Comment 1 on Course 4",
+        "Comment 2 on Course 4"
+      ]
+    },
+    {
+      "course_id": "COURSE005",
+      "course_title": "Arts and Science Course 5",
+      "short_description": "A short intro to Arts and Science topic 5",
+      "description": "This is a comprehensive course on Arts and Science topic 5, covering concepts, practice, and evaluation.",
+      "category_id": "5",
+      "sub_category_id": "5-2",
+      "category_name": "Arts and Science",
+      "course_type": "video",
+      "thumbnail": "/images/thumb5.jpg",
+      "image": "/images/course5.jpg",
+      "youtube": "https://youtube.com/video5",
+      "enrollment_status": "completed",
+      "progress": 3,
+      "certificate_earned": false,
+      "rating": 4.6,
+      "registered_students": 123,
+      "comments": [
+        "Comment 0 on Course 5",
+        "Comment 1 on Course 5"
+      ]
+    },
+    {
+      "course_id": "COURSE006",
+      "course_title": "Computer Science Course 6",
+      "short_description": "A short intro to Computer Science topic 6",
+      "description": "This is a comprehensive course on Computer Science topic 6, covering concepts, practice, and evaluation.",
+      "category_id": "1",
+      "sub_category_id": "1-3",
+      "category_name": "Computer Science",
+      "course_type": "video",
+      "thumbnail": "/images/thumb6.jpg",
+      "image": "/images/course6.jpg",
+      "youtube": "https://youtube.com/video6",
+      "enrollment_status": "completed",
+      "progress": 67,
+      "certificate_earned": true,
+      "rating": 4.8,
+      "registered_students": 175,
+      "comments": [
+        "Comment 0 on Course 6",
+        "Comment 1 on Course 6",
+        "Comment 2 on Course 6"
+      ]
+    },
+    {
+      "course_id": "COURSE007",
+      "course_title": "Business and Management Sciences Course 7",
+      "short_description": "A short intro to Business and Management Sciences topic 7",
+      "description": "This is a comprehensive course on Business and Management Sciences topic 7, covering concepts, practice, and evaluation.",
+      "category_id": "2",
+      "sub_category_id": "2-1",
+      "category_name": "Business and Management Sciences",
+      "course_type": "video",
+      "thumbnail": "/images/thumb7.jpg",
+      "image": "/images/course7.jpg",
+      "youtube": "https://youtube.com/video7",
+      "enrollment_status": "completed",
+      "progress": 36,
+      "certificate_earned": false,
+      "rating": 4.2,
+      "registered_students": 352,
+      "comments": [
+        "Comment 0 on Course 7",
+        "Comment 1 on Course 7",
+        "Comment 2 on Course 7"
+      ]
+    },
+    {
+      "course_id": "COURSE008",
+      "course_title": "Mathematics Course 8",
+      "short_description": "A short intro to Mathematics topic 8",
+      "description": "This is a comprehensive course on Mathematics topic 8, covering concepts, practice, and evaluation.",
+      "category_id": "3",
+      "sub_category_id": "3-2",
+      "category_name": "Mathematics",
+      "course_type": "video",
+      "thumbnail": "/images/thumb8.jpg",
+      "image": "/images/course8.jpg",
+      "youtube": "https://youtube.com/video8",
+      "enrollment_status": "completed",
+      "progress": 33,
+      "certificate_earned": true,
+      "rating": 5.0,
+      "registered_students": 104,
+      "comments": [
+        "Comment 0 on Course 8"
+      ]
+    },
+    {
+      "course_id": "COURSE009",
+      "course_title": "Engineering Course 9",
+      "short_description": "A short intro to Engineering topic 9",
+      "description": "This is a comprehensive course on Engineering topic 9, covering concepts, practice, and evaluation.",
+      "category_id": "4",
+      "sub_category_id": "4-3",
+      "category_name": "Engineering",
+      "course_type": "video",
+      "thumbnail": "/images/thumb9.jpg",
+      "image": "/images/course9.jpg",
+      "youtube": "https://youtube.com/video9",
+      "enrollment_status": "completed",
+      "progress": 14,
+      "certificate_earned": false,
+      "rating": 4.9,
+      "registered_students": 457,
+      "comments": [
+        "Comment 0 on Course 9",
+        "Comment 1 on Course 9",
+        "Comment 2 on Course 9",
+        "Comment 3 on Course 9"
+      ]
+    },
+    {
+      "course_id": "COURSE010",
+      "course_title": "Arts and Science Course 10",
+      "short_description": "A short intro to Arts and Science topic 10",
+      "description": "This is a comprehensive course on Arts and Science topic 10, covering concepts, practice, and evaluation.",
+      "category_id": "5",
+      "sub_category_id": "5-1",
+      "category_name": "Arts and Science",
+      "course_type": "video",
+      "thumbnail": "/images/thumb10.jpg",
+      "image": "/images/course10.jpg",
+      "youtube": "https://youtube.com/video10",
+      "enrollment_status": "dropped",
+      "progress": 26,
+      "certificate_earned": true,
+      "rating": 4.7,
+      "registered_students": 129,
+      "comments": [
+        "Comment 0 on Course 10",
+        "Comment 1 on Course 10",
+        "Comment 2 on Course 10",
+        "Comment 3 on Course 10"
+      ]
+    }
+  ],
+  "users": [
+    {
+      "user_id": "student1@example.com",
+      "email_id": "student1@example.com",
+      "address": "208 Street Name",
+      "user_category": "student",
+      "created_at": "2025-06-14T08:28:19.234298"
+    },
+    {
+      "user_id": "student2@example.com",
+      "email_id": "student2@example.com",
+      "address": "903 Street Name",
+      "user_category": "student",
+      "created_at": "2025-06-14T08:28:19.234309"
+    },
+    {
+      "user_id": "student3@example.com",
+      "email_id": "student3@example.com",
+      "address": "902 Street Name",
+      "user_category": "student",
+      "created_at": "2025-06-14T08:28:19.234315"
+    },
+    {
+      "user_id": "student4@example.com",
+      "email_id": "student4@example.com",
+      "address": "875 Street Name",
+      "user_category": "student",
+      "created_at": "2025-06-14T08:28:19.234320"
+    },
+    {
+      "user_id": "student5@example.com",
+      "email_id": "student5@example.com",
+      "address": "274 Street Name",
+      "user_category": "student",
+      "created_at": "2025-06-14T08:28:19.234325"
+    }
+  ]
+}

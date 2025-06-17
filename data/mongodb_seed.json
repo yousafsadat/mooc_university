@@ -1,0 +1,10 @@
+[
+  {
+    "student_id": "S1",
+    "course_id": "CS101",
+    "quiz_marks": 88,
+    "assignment_marks": 85,
+    "course_registered": 3,
+    "activity_logs": 25
+  }
+]
