@@ -22,7 +22,7 @@ export default function Navbar() {
       <div className="space-x-6 text-sm font-medium text-gray-700 hidden md:flex">
         <Link to="/" className="hover:text-blue-600">Home</Link>
         <Link to="/" className="hover:text-blue-600">Courses</Link>
-        <Link to="/predict" className="hover:text-blue-600">Prediction</Link>
+        {/* <Link to="/predict" className="hover:text-blue-600">Prediction</Link> */}
         <Link to="#" className="hover:text-blue-600">Certificate</Link>
         <Link to="#" className="hover:text-blue-600">Contact Us</Link>
         <Link to="#" className="hover:text-blue-600 font-semibold">Log in</Link>
